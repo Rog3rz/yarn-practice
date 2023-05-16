@@ -1,0 +1,26 @@
+{
+  "name": "yarn-practice",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-session": "^1.17.3",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "joi": "^17.9.2",
+    "mercadopago": "^1.5.16",
+    "mongodb": "^5.5.0",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.22",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3"
+  }
+}
